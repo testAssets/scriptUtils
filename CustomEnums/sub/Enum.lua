@@ -1,4 +1,4 @@
-local newEnumItem = loadstring("https://raw.githubusercontent.com/testAssets/scriptUtils/main/CustomEnums/sub/EnumItem.lua")().new()
+local newEnumItem = loadstring("https://raw.githubusercontent.com/testAssets/scriptUtils/main/CustomEnums/sub/EnumItem.lua")().new
 
 local Enum = {}
 
