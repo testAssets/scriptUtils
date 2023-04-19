@@ -1,6 +1,6 @@
 local RBX_ENUM = Enum
 
-local newEnum = loadstring("https://raw.githubusercontent.com/testAssets/scriptUtils/main/CustomEnums/sub/Enum.lua")().new()
+local newEnum = loadstring("https://raw.githubusercontent.com/testAssets/scriptUtils/main/CustomEnums/sub/Enum.lua")().new
 
 local Enum = newproxy(true)
 local meta = getmetatable(Enum)
